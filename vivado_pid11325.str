@@ -1,0 +1,122 @@
+/*
+
+AMD Vivado v2025.2 (64-bit) [Major: 2025, Minor: 2]
+SW Build: 6299465 on Fri Nov 14 12:34:56 MST 2025
+IP Build: 6300035 on Fri Nov 14 10:48:45 MST 2025
+IP Build: 6300035 on Fri Nov 14 10:48:45 MST 2025
+
+Process ID (PID): 11325
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Sun Oct 25 18:40:34 CET 2026
+Time zone: 	Central European Standard Time (Europe/Paris)
+
+OS: Ubuntu
+OS Version: 6.18.33.2-microsoft-standard-WSL2
+OS Architecture: amd64
+Available processors (cores): 16
+LSB Release Description: DISTRIB_ID=Ubuntu
+
+Display: 0
+Screen size: 1280x800
+Local screen bounds: x = 0, y = 0, width = 1280, height = 800
+Screen resolution (DPI): 100
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+Scale size: 12
+OS font scaling: 100%
+Anti-Alias Enabled: true
+
+Java version: 	21.0.5 64-bit
+
+Java home: 	/home/killian/Xilinx/2025.2/tps/lnx64/jre21.0.5_11
+Java executable: 	/home/killian/Xilinx/2025.2/tps/lnx64/jre21.0.5_11/bin/java
+Java arguments: 	[-Dsun.java2d.pmoffscreen=false, -Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2, -Dsun.java2d.xrender=false, -Dsun.java2d.uiScale.enabled=false, -Dswing.aatext=true, -XX:-UsePerfData, -Djdk.map.althashing.threshold=512, -XX:StringTableSize=4072, -XX:+UseStringDeduplication, -XX:MaxGCPauseMillis=200, -XX:ParallelGCThreads=4, -XX:+ParallelRefProcEnabled, --add-opens=java.desktop/javax.swing.plaf.synth=ALL-UNNAMED, --add-opens=java.base/java.nio=ALL-UNNAMED, --add-opens=java.desktop/sun.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.tree=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.synth=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-opens=java.desktop/javax.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.tree=ALL-UNNAMED, --add-opens=java.desktop/java.awt.event=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED, --add-exports=java.desktop/javax.swing.plaf.synth=ALL-UNNAMED, --add-exports=java.base/java.nio=ALL-UNNAMED, --add-exports=java.desktop/sun.swing=ALL-UNNAMED, --add-exports=java.desktop/javax.swing=ALL-UNNAMED, --add-exports=java.desktop/javax.swing.tree=ALL-UNNAMED, --add-exports=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-exports=java.desktop/sun.swing=ALL-UNNAMED, --add-exports=java.desktop/sun.swing.table=ALL-UNNAMED, --add-exports=java.desktop/sun.swing.plaf.synth=ALL-UNNAMED, --add-exports=java.desktop/sun.awt.shell=ALL-UNNAMED, --add-exports=java.base/sun.security.action=ALL-UNNAMED, --add-exports=java.desktop/sun.font=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED, -XX:NewSize=80m, -XX:MaxNewSize=80m, -Xms812m, -Xmx6144m, -Xss10m, -Xrs]
+Java initial memory (-Xms): 	812 MB
+Java maximum memory (-Xmx):	 6 GB
+
+User name: 	killian
+User home directory: /home/killian
+User working directory: /home/killian/projects/simple_aie
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /home/killian/Xilinx/2025.2
+HDI_APPROOT: /home/killian/Xilinx/2025.2/Vivado
+RDI_DATADIR: /home/killian/Xilinx/2025.2/SharedData/data:/home/killian/Xilinx/2025.2/data
+RDI_BINDIR: /home/killian/Xilinx/2025.2/Vivado/bin
+
+Vivado preferences file: /home/killian/.Xilinx/Vivado/2025.2/vivado.xml
+Vivado preferences directory: /home/killian/.Xilinx/Vivado/2025.2/
+Vivado layouts directory: /home/killian/.Xilinx/Vivado/2025.2/data/layouts
+PlanAhead jar file: 	/home/killian/Xilinx/2025.2/Vivado/lib/classes/planAhead.jar
+Vivado log file: 	/home/killian/projects/simple_aie/vivado.log
+Vivado journal file: 	/home/killian/projects/simple_aie/vivado.jou
+Engine tmp dir: 	./.Xil/Vivado-11325-IdeaPad-Slim-5-15ARP10
+Non-Default Parameters:	[]
+
+Xilinx & AMD Environment Variables
+--------------------------------------------------------------------------------------------
+RDI_APPROOT: /home/killian/Xilinx/2025.2/Vivado
+RDI_BASEROOT: /home/killian/Xilinx/2025.2
+RDI_BINROOT: /home/killian/Xilinx/2025.2/Vivado/bin
+RDI_BUILD: yes
+RDI_DATADIR: /home/killian/Xilinx/2025.2/SharedData/data:/home/killian/Xilinx/2025.2/data
+RDI_INSTALLROOT: /home/killian/Xilinx
+RDI_INSTALLVER: Vivado
+RDI_JAVA_PLATFORM: 
+RDI_JAVA_VERSION: 21.0.5_11
+RDI_LIBDIR: /home/killian/Xilinx/2025.2/Vivado/lib/lnx64.o/Ubuntu:/home/killian/Xilinx/2025.2/Vivado/lib/lnx64.o
+RDI_OPT_EXT: .o
+RDI_PATCHROOT: 
+RDI_PLATFORM: lnx64
+RDI_PREPEND_PATH: /home/killian/Xilinx/2025.2/Vitis/bin:/home/killian/Xilinx/2025.2/Vivado/ids_lite/ISE/bin/lin64
+RDI_PROG: /home/killian/Xilinx/2025.2/Vivado/bin/unwrapped/lnx64.o/vivado
+RDI_SESSION_INFO: /home/killian/projects/simple_aie:IdeaPad-Slim-5-15ARP10_1792950014_11231
+RDI_SHARED_DATA: /home/killian/Xilinx/2025.2/SharedData/data
+RDI_TPS_ROOT: /home/killian/Xilinx/2025.2/Vivado/tps/lnx64
+RDI_USE_JDK21: True
+SHELL: /bin/bash
+XILINX: /home/killian/Xilinx/2025.2/Vivado/ids_lite/ISE
+XILINX_DSP: /home/killian/Xilinx/2025.2/Vivado/ids_lite/ISE
+XILINX_HLS: /home/killian/Xilinx/2025.2/Vitis
+XILINX_PLANAHEAD: /home/killian/Xilinx/2025.2/Vivado
+XILINX_SDK: /home/killian/Xilinx/2025.2/Vitis
+XILINX_VITIS: /home/killian/Xilinx/2025.2/Vitis
+XILINX_VIVADO: /home/killian/Xilinx/2025.2/Vivado
+
+
+GUI allocated memory:	812 MB
+GUI max memory:		6,144 MB
+Engine allocated memory: 1,956 MB
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,956 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:40:35 PM CET
+selectMenu(PAResourceItoN.MainMenuMgr_HELP, "Help"); // ah (PAResourceItoN.MainMenuMgr_HELP, Help)
+selectMenuItem(PAResourceCommand.PACommandNames_LICENSE_MANAGE, "Manage License..."); // ap (PAResourceCommand.PACommandNames_LICENSE_MANAGE, license_manage_menu)
+dismissMenu(PAResourceItoN.MainMenuMgr_HELP, "Help"); // ah (PAResourceItoN.MainMenuMgr_HELP, Help)
+// Run Command: PAResourceCommand.PACommandNames_LICENSE_MANAGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,949 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:41:03 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,949 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:41:43 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,949 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:42:23 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,949 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:43:03 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,949 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:43:43 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,949 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:44:23 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,951 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:45:03 PM CET
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,951 MB. GUI used memory: 59 MB. Current time: 10/25/26, 6:45:43 PM CET

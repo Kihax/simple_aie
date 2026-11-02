@@ -1,0 +1,14 @@
+{
+    "ModuleName": "i0_kernels",
+    "SourceFileName": "/home/killian/projects/simple_aie/kernels.cc",
+    "StructTypes": [],
+    "Globals": [],
+    "UsesCmathStaticVars": false,
+    "Functions": [
+        {
+            "FunctionName": "simple(adf::io_buffer<short, adf::direction::in, adf::io_buffer_config<adf::extents<4294967295u>, adf::locking::sync, adf::addressing::linear, adf::margin<0u> > >&, adf::io_buffer<short, adf::direction::out, adf::io_buffer_config<adf::extents<4294967295u>, adf::locking::sync, adf::addressing::linear, adf::margin<0u> > >&)",
+            "StackSize": 8,
+            "SoftFloat": false
+        }
+    ]
+}

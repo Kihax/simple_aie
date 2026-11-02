@@ -1,0 +1,738 @@
+Sun Oct 25 18:23:22 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 18:23:22 2026: Server was asked to start on port: '40537'
+Sun Oct 25 18:23:22 2026: Server is using token UUID: '13359c77-59d0-4aa6-b7f8-b68922352c7a'
+Sun Oct 25 18:23:22 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 18:23:22 2026: Attempting to start server on port '40537'
+Sun Oct 25 18:23:22 2026: XCD main fifo: created main fifo '/tmp/xcdmain13359c77-59d0-4aa6-b7f8-b68922352c7a', fd read = 12
+Sun Oct 25 18:23:22 2026: Running Dispatch Server
+Sun Oct 25 18:23:22 2026: Version 2.2.0
+Sun Oct 25 18:23:23 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 18:23:23 2026: Starting Socket connection
+Sun Oct 25 18:23:23 2026: EXCHANGE_TOKEN received, server token: 13359c77-59d0-4aa6-b7f8-b68922352c7a, passed token: 13359c77-59d0-4aa6-b7f8-b68922352c7a
+Sun Oct 25 18:23:23 2026: SESSION_MGR: creating session with session uuid: '9f405f65-c974-43e4-a954-a2438a93f9ca' and name 'AIE Compilation'
+Sun Oct 25 18:23:23 2026: KERNEL_SVC: creating session with uuid: '9f405f65-c974-43e4-a954-a2438a93f9ca' and name 'AIE Compilation'
+Sun Oct 25 18:23:23 2026: GUIDANCE_SMGR: creating guidance session with uuid: '9f405f65-c974-43e4-a954-a2438a93f9ca' and name 'AIE Compilation'
+Sun Oct 25 18:23:25 2026: Dispatch Server: do_await_stop
+Sun Oct 25 18:23:25 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 18:23:25 2026: XCD main fifo: Stopping
+Sun Oct 25 18:23:25 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 18:23:25 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 18:23:25 2026: SERVER: destructor for server bound to port 40537
+Sun Oct 25 18:23:25 2026: XCD main fifo: Good unlink of /tmp/xcdmain13359c77-59d0-4aa6-b7f8-b68922352c7a
+Sun Oct 25 18:23:25 2026: Server exiting with status 0.
+Sun Oct 25 18:23:25 2026: Closing log file.
+Sun Oct 25 18:25:04 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 18:25:04 2026: Server was asked to start on port: '33947'
+Sun Oct 25 18:25:04 2026: Server is using token UUID: 'e2d9bc14-10fa-4168-b776-ac4152f0608d'
+Sun Oct 25 18:25:04 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 18:25:04 2026: Attempting to start server on port '33947'
+Sun Oct 25 18:25:04 2026: XCD main fifo: created main fifo '/tmp/xcdmaine2d9bc14-10fa-4168-b776-ac4152f0608d', fd read = 12
+Sun Oct 25 18:25:04 2026: Running Dispatch Server
+Sun Oct 25 18:25:04 2026: Version 2.2.0
+Sun Oct 25 18:25:05 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 18:25:05 2026: Starting Socket connection
+Sun Oct 25 18:25:05 2026: EXCHANGE_TOKEN received, server token: e2d9bc14-10fa-4168-b776-ac4152f0608d, passed token: e2d9bc14-10fa-4168-b776-ac4152f0608d
+Sun Oct 25 18:25:05 2026: SESSION_MGR: creating session with session uuid: '40083ffd-c74f-421d-b2a8-4705cc4a5c8f' and name 'AIE Compilation'
+Sun Oct 25 18:25:05 2026: KERNEL_SVC: creating session with uuid: '40083ffd-c74f-421d-b2a8-4705cc4a5c8f' and name 'AIE Compilation'
+Sun Oct 25 18:25:05 2026: GUIDANCE_SMGR: creating guidance session with uuid: '40083ffd-c74f-421d-b2a8-4705cc4a5c8f' and name 'AIE Compilation'
+Sun Oct 25 18:25:06 2026: Dispatch Server: do_await_stop
+Sun Oct 25 18:25:06 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 18:25:06 2026: XCD main fifo: Stopping
+Sun Oct 25 18:25:06 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 18:25:06 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 18:25:06 2026: SERVER: destructor for server bound to port 33947
+Sun Oct 25 18:25:06 2026: XCD main fifo: Good unlink of /tmp/xcdmaine2d9bc14-10fa-4168-b776-ac4152f0608d
+Sun Oct 25 18:25:06 2026: Server exiting with status 0.
+Sun Oct 25 18:25:06 2026: Closing log file.
+Sun Oct 25 18:38:59 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 18:38:59 2026: Server was asked to start on port: '33163'
+Sun Oct 25 18:38:59 2026: Server is using token UUID: '388df37a-b8bc-4782-b8fb-58ea1c8c9754'
+Sun Oct 25 18:38:59 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 18:38:59 2026: Attempting to start server on port '33163'
+Sun Oct 25 18:38:59 2026: XCD main fifo: created main fifo '/tmp/xcdmain388df37a-b8bc-4782-b8fb-58ea1c8c9754', fd read = 12
+Sun Oct 25 18:38:59 2026: Running Dispatch Server
+Sun Oct 25 18:38:59 2026: Version 2.2.0
+Sun Oct 25 18:39:01 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 18:39:01 2026: Starting Socket connection
+Sun Oct 25 18:39:01 2026: EXCHANGE_TOKEN received, server token: 388df37a-b8bc-4782-b8fb-58ea1c8c9754, passed token: 388df37a-b8bc-4782-b8fb-58ea1c8c9754
+Sun Oct 25 18:39:01 2026: SESSION_MGR: creating session with session uuid: 'f7cc6bd1-dae4-410d-a8b9-489052c9c9b3' and name 'AIE Compilation'
+Sun Oct 25 18:39:01 2026: KERNEL_SVC: creating session with uuid: 'f7cc6bd1-dae4-410d-a8b9-489052c9c9b3' and name 'AIE Compilation'
+Sun Oct 25 18:39:01 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'f7cc6bd1-dae4-410d-a8b9-489052c9c9b3' and name 'AIE Compilation'
+Sun Oct 25 18:39:04 2026: SESSION_MGR: closing session for UUID 'f7cc6bd1-dae4-410d-a8b9-489052c9c9b3' with name ''
+Sun Oct 25 18:39:04 2026: KERNEL_SVC: closing session for UUID 'f7cc6bd1-dae4-410d-a8b9-489052c9c9b3' with name ''
+Sun Oct 25 18:39:04 2026: GUIDANCE_SMGR: closing session for UUID 'f7cc6bd1-dae4-410d-a8b9-489052c9c9b3' with name ''
+Sun Oct 25 18:39:04 2026: STOP_SERVER received, server token: 388df37a-b8bc-4782-b8fb-58ea1c8c9754, passed token: 388df37a-b8bc-4782-b8fb-58ea1c8c9754
+Sun Oct 25 18:39:04 2026: Socket received request to stop server.
+Sun Oct 25 18:39:04 2026: Dispatch Server: do_await_stop
+Sun Oct 25 18:39:04 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 18:39:04 2026: XCD main fifo: Stopping
+Sun Oct 25 18:39:04 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 18:39:04 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 18:39:04 2026: SERVER: destructor for server bound to port 33163
+Sun Oct 25 18:39:04 2026: XCD main fifo: Good unlink of /tmp/xcdmain388df37a-b8bc-4782-b8fb-58ea1c8c9754
+Sun Oct 25 18:39:04 2026: Server exiting with status 0.
+Sun Oct 25 18:39:04 2026: Closing log file.
+Sun Oct 25 18:47:47 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 18:47:47 2026: Server was asked to start on port: '35029'
+Sun Oct 25 18:47:47 2026: Server is using token UUID: 'b411e127-6fc5-487d-b13a-6fd59a208fb5'
+Sun Oct 25 18:47:47 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 18:47:47 2026: Attempting to start server on port '35029'
+Sun Oct 25 18:47:47 2026: XCD main fifo: created main fifo '/tmp/xcdmainb411e127-6fc5-487d-b13a-6fd59a208fb5', fd read = 12
+Sun Oct 25 18:47:47 2026: Running Dispatch Server
+Sun Oct 25 18:47:47 2026: Version 2.2.0
+Sun Oct 25 18:47:48 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 18:47:48 2026: Starting Socket connection
+Sun Oct 25 18:47:48 2026: EXCHANGE_TOKEN received, server token: b411e127-6fc5-487d-b13a-6fd59a208fb5, passed token: b411e127-6fc5-487d-b13a-6fd59a208fb5
+Sun Oct 25 18:47:48 2026: SESSION_MGR: creating session with session uuid: '16aeb928-cd5f-40d2-af64-b00f12feebd1' and name 'AIE Compilation'
+Sun Oct 25 18:47:48 2026: KERNEL_SVC: creating session with uuid: '16aeb928-cd5f-40d2-af64-b00f12feebd1' and name 'AIE Compilation'
+Sun Oct 25 18:47:48 2026: GUIDANCE_SMGR: creating guidance session with uuid: '16aeb928-cd5f-40d2-af64-b00f12feebd1' and name 'AIE Compilation'
+Sun Oct 25 18:50:32 2026: SESSION_MGR: closing session for UUID '16aeb928-cd5f-40d2-af64-b00f12feebd1' with name ''
+Sun Oct 25 18:50:32 2026: KERNEL_SVC: closing session for UUID '16aeb928-cd5f-40d2-af64-b00f12feebd1' with name ''
+Sun Oct 25 18:50:32 2026: GUIDANCE_SMGR: closing session for UUID '16aeb928-cd5f-40d2-af64-b00f12feebd1' with name ''
+Sun Oct 25 18:50:32 2026: STOP_SERVER received, server token: b411e127-6fc5-487d-b13a-6fd59a208fb5, passed token: b411e127-6fc5-487d-b13a-6fd59a208fb5
+Sun Oct 25 18:50:32 2026: Socket received request to stop server.
+Sun Oct 25 18:50:32 2026: Dispatch Server: do_await_stop
+Sun Oct 25 18:50:32 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 18:50:32 2026: XCD main fifo: Stopping
+Sun Oct 25 18:50:32 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 18:50:32 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 18:50:32 2026: SERVER: destructor for server bound to port 35029
+Sun Oct 25 18:50:32 2026: XCD main fifo: Good unlink of /tmp/xcdmainb411e127-6fc5-487d-b13a-6fd59a208fb5
+Sun Oct 25 18:50:32 2026: Server exiting with status 0.
+Sun Oct 25 18:50:32 2026: Closing log file.
+Sun Oct 25 18:53:00 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 18:53:00 2026: Server was asked to start on port: '40875'
+Sun Oct 25 18:53:00 2026: Server is using token UUID: '063304e1-4cac-4be9-9217-f8516da359f1'
+Sun Oct 25 18:53:00 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 18:53:00 2026: Attempting to start server on port '40875'
+Sun Oct 25 18:53:00 2026: XCD main fifo: created main fifo '/tmp/xcdmain063304e1-4cac-4be9-9217-f8516da359f1', fd read = 12
+Sun Oct 25 18:53:00 2026: Running Dispatch Server
+Sun Oct 25 18:53:00 2026: Version 2.2.0
+Sun Oct 25 18:53:01 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 18:53:01 2026: Starting Socket connection
+Sun Oct 25 18:53:01 2026: EXCHANGE_TOKEN received, server token: 063304e1-4cac-4be9-9217-f8516da359f1, passed token: 063304e1-4cac-4be9-9217-f8516da359f1
+Sun Oct 25 18:53:01 2026: SESSION_MGR: creating session with session uuid: '8f35ec93-44fb-47f6-851a-b4a62ebb6673' and name 'AIE Compilation'
+Sun Oct 25 18:53:01 2026: KERNEL_SVC: creating session with uuid: '8f35ec93-44fb-47f6-851a-b4a62ebb6673' and name 'AIE Compilation'
+Sun Oct 25 18:53:01 2026: GUIDANCE_SMGR: creating guidance session with uuid: '8f35ec93-44fb-47f6-851a-b4a62ebb6673' and name 'AIE Compilation'
+Sun Oct 25 18:53:03 2026: Dispatch Server: do_await_stop
+Sun Oct 25 18:53:03 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 18:53:03 2026: XCD main fifo: Stopping
+Sun Oct 25 18:53:03 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 18:53:03 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 18:53:03 2026: SERVER: destructor for server bound to port 40875
+Sun Oct 25 18:53:03 2026: XCD main fifo: Good unlink of /tmp/xcdmain063304e1-4cac-4be9-9217-f8516da359f1
+Sun Oct 25 18:53:03 2026: Server exiting with status 0.
+Sun Oct 25 18:53:03 2026: Closing log file.
+Sun Oct 25 20:50:42 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 20:50:42 2026: Server was asked to start on port: '38021'
+Sun Oct 25 20:50:42 2026: Server is using token UUID: '988bfb73-749b-4565-9a86-07a52e49ffdf'
+Sun Oct 25 20:50:42 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 20:50:42 2026: Attempting to start server on port '38021'
+Sun Oct 25 20:50:42 2026: XCD main fifo: created main fifo '/tmp/xcdmain988bfb73-749b-4565-9a86-07a52e49ffdf', fd read = 12
+Sun Oct 25 20:50:42 2026: Running Dispatch Server
+Sun Oct 25 20:50:42 2026: Version 2.2.0
+Sun Oct 25 20:50:44 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 20:50:44 2026: Starting Socket connection
+Sun Oct 25 20:50:44 2026: EXCHANGE_TOKEN received, server token: 988bfb73-749b-4565-9a86-07a52e49ffdf, passed token: 988bfb73-749b-4565-9a86-07a52e49ffdf
+Sun Oct 25 20:50:44 2026: SESSION_MGR: creating session with session uuid: '8fc479c5-e24a-476a-88b3-ec142f6bb678' and name 'AIE Compilation'
+Sun Oct 25 20:50:44 2026: KERNEL_SVC: creating session with uuid: '8fc479c5-e24a-476a-88b3-ec142f6bb678' and name 'AIE Compilation'
+Sun Oct 25 20:50:44 2026: GUIDANCE_SMGR: creating guidance session with uuid: '8fc479c5-e24a-476a-88b3-ec142f6bb678' and name 'AIE Compilation'
+Sun Oct 25 20:50:45 2026: Dispatch Server: do_await_stop
+Sun Oct 25 20:50:45 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 20:50:45 2026: XCD main fifo: Stopping
+Sun Oct 25 20:50:45 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 20:50:45 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 20:50:45 2026: SERVER: destructor for server bound to port 38021
+Sun Oct 25 20:50:45 2026: XCD main fifo: Good unlink of /tmp/xcdmain988bfb73-749b-4565-9a86-07a52e49ffdf
+Sun Oct 25 20:50:45 2026: Server exiting with status 0.
+Sun Oct 25 20:50:45 2026: Closing log file.
+Sun Oct 25 20:52:54 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 20:52:54 2026: Server was asked to start on port: '32969'
+Sun Oct 25 20:52:54 2026: Server is using token UUID: 'a2db3509-2e5b-49f1-8548-ecd889aabc16'
+Sun Oct 25 20:52:54 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 20:52:54 2026: Attempting to start server on port '32969'
+Sun Oct 25 20:52:54 2026: XCD main fifo: created main fifo '/tmp/xcdmaina2db3509-2e5b-49f1-8548-ecd889aabc16', fd read = 12
+Sun Oct 25 20:52:54 2026: Running Dispatch Server
+Sun Oct 25 20:52:54 2026: Version 2.2.0
+Sun Oct 25 20:52:55 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 20:52:55 2026: Starting Socket connection
+Sun Oct 25 20:52:55 2026: EXCHANGE_TOKEN received, server token: a2db3509-2e5b-49f1-8548-ecd889aabc16, passed token: a2db3509-2e5b-49f1-8548-ecd889aabc16
+Sun Oct 25 20:52:55 2026: SESSION_MGR: creating session with session uuid: 'd7c2340f-a9ec-4094-a2ca-297bcbb7bc7f' and name 'AIE Compilation'
+Sun Oct 25 20:52:55 2026: KERNEL_SVC: creating session with uuid: 'd7c2340f-a9ec-4094-a2ca-297bcbb7bc7f' and name 'AIE Compilation'
+Sun Oct 25 20:52:55 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'd7c2340f-a9ec-4094-a2ca-297bcbb7bc7f' and name 'AIE Compilation'
+Sun Oct 25 20:52:56 2026: Dispatch Server: do_await_stop
+Sun Oct 25 20:52:56 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 20:52:56 2026: XCD main fifo: Stopping
+Sun Oct 25 20:52:56 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 20:52:56 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 20:52:56 2026: SERVER: destructor for server bound to port 32969
+Sun Oct 25 20:52:56 2026: XCD main fifo: Good unlink of /tmp/xcdmaina2db3509-2e5b-49f1-8548-ecd889aabc16
+Sun Oct 25 20:52:56 2026: Server exiting with status 0.
+Sun Oct 25 20:52:56 2026: Closing log file.
+Sun Oct 25 20:55:12 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 20:55:12 2026: Server was asked to start on port: '34927'
+Sun Oct 25 20:55:12 2026: Server is using token UUID: '73b87b97-c6f2-477f-aef2-8860d49849cb'
+Sun Oct 25 20:55:12 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 20:55:12 2026: Attempting to start server on port '34927'
+Sun Oct 25 20:55:12 2026: XCD main fifo: created main fifo '/tmp/xcdmain73b87b97-c6f2-477f-aef2-8860d49849cb', fd read = 12
+Sun Oct 25 20:55:12 2026: Running Dispatch Server
+Sun Oct 25 20:55:12 2026: Version 2.2.0
+Sun Oct 25 20:55:13 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 20:55:13 2026: Starting Socket connection
+Sun Oct 25 20:55:13 2026: EXCHANGE_TOKEN received, server token: 73b87b97-c6f2-477f-aef2-8860d49849cb, passed token: 73b87b97-c6f2-477f-aef2-8860d49849cb
+Sun Oct 25 20:55:13 2026: SESSION_MGR: creating session with session uuid: 'a5af016e-bceb-48bb-a05e-1d6d57d7d7fe' and name 'AIE Compilation'
+Sun Oct 25 20:55:13 2026: KERNEL_SVC: creating session with uuid: 'a5af016e-bceb-48bb-a05e-1d6d57d7d7fe' and name 'AIE Compilation'
+Sun Oct 25 20:55:13 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'a5af016e-bceb-48bb-a05e-1d6d57d7d7fe' and name 'AIE Compilation'
+Sun Oct 25 20:55:17 2026: Dispatch Server: do_await_stop
+Sun Oct 25 20:55:17 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 20:55:17 2026: XCD main fifo: Stopping
+Sun Oct 25 20:55:17 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 20:55:17 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 20:55:17 2026: SERVER: destructor for server bound to port 34927
+Sun Oct 25 20:55:17 2026: XCD main fifo: Good unlink of /tmp/xcdmain73b87b97-c6f2-477f-aef2-8860d49849cb
+Sun Oct 25 20:55:17 2026: Server exiting with status 0.
+Sun Oct 25 20:55:17 2026: Closing log file.
+Sun Oct 25 20:57:21 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 20:57:21 2026: Server was asked to start on port: '40325'
+Sun Oct 25 20:57:21 2026: Server is using token UUID: 'f6c130f8-1edc-4c1d-ab8f-2d92484fc5b3'
+Sun Oct 25 20:57:21 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 20:57:21 2026: Attempting to start server on port '40325'
+Sun Oct 25 20:57:21 2026: XCD main fifo: created main fifo '/tmp/xcdmainf6c130f8-1edc-4c1d-ab8f-2d92484fc5b3', fd read = 12
+Sun Oct 25 20:57:21 2026: Running Dispatch Server
+Sun Oct 25 20:57:21 2026: Version 2.2.0
+Sun Oct 25 20:57:23 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 20:57:23 2026: Starting Socket connection
+Sun Oct 25 20:57:23 2026: EXCHANGE_TOKEN received, server token: f6c130f8-1edc-4c1d-ab8f-2d92484fc5b3, passed token: f6c130f8-1edc-4c1d-ab8f-2d92484fc5b3
+Sun Oct 25 20:57:23 2026: SESSION_MGR: creating session with session uuid: '2f66c689-835b-43d5-a4e0-7d07631ccf95' and name 'AIE Compilation'
+Sun Oct 25 20:57:23 2026: KERNEL_SVC: creating session with uuid: '2f66c689-835b-43d5-a4e0-7d07631ccf95' and name 'AIE Compilation'
+Sun Oct 25 20:57:23 2026: GUIDANCE_SMGR: creating guidance session with uuid: '2f66c689-835b-43d5-a4e0-7d07631ccf95' and name 'AIE Compilation'
+Sun Oct 25 20:57:26 2026: Dispatch Server: do_await_stop
+Sun Oct 25 20:57:26 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 20:57:26 2026: XCD main fifo: Stopping
+Sun Oct 25 20:57:26 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 20:57:26 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 20:57:26 2026: SERVER: destructor for server bound to port 40325
+Sun Oct 25 20:57:26 2026: XCD main fifo: Good unlink of /tmp/xcdmainf6c130f8-1edc-4c1d-ab8f-2d92484fc5b3
+Sun Oct 25 20:57:26 2026: Server exiting with status 0.
+Sun Oct 25 20:57:26 2026: Closing log file.
+Sun Oct 25 20:58:55 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 20:58:55 2026: Server was asked to start on port: '34265'
+Sun Oct 25 20:58:55 2026: Server is using token UUID: 'bae81495-c396-4e52-a3ce-0547abbbe645'
+Sun Oct 25 20:58:55 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 20:58:55 2026: Attempting to start server on port '34265'
+Sun Oct 25 20:58:55 2026: XCD main fifo: created main fifo '/tmp/xcdmainbae81495-c396-4e52-a3ce-0547abbbe645', fd read = 12
+Sun Oct 25 20:58:55 2026: Running Dispatch Server
+Sun Oct 25 20:58:55 2026: Version 2.2.0
+Sun Oct 25 20:58:56 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 20:58:56 2026: Starting Socket connection
+Sun Oct 25 20:58:56 2026: EXCHANGE_TOKEN received, server token: bae81495-c396-4e52-a3ce-0547abbbe645, passed token: bae81495-c396-4e52-a3ce-0547abbbe645
+Sun Oct 25 20:58:56 2026: SESSION_MGR: creating session with session uuid: 'a870e7ae-fb74-441d-82a3-df17a4542eea' and name 'AIE Compilation'
+Sun Oct 25 20:58:56 2026: KERNEL_SVC: creating session with uuid: 'a870e7ae-fb74-441d-82a3-df17a4542eea' and name 'AIE Compilation'
+Sun Oct 25 20:58:56 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'a870e7ae-fb74-441d-82a3-df17a4542eea' and name 'AIE Compilation'
+Sun Oct 25 20:59:00 2026: Dispatch Server: do_await_stop
+Sun Oct 25 20:59:00 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 20:59:00 2026: XCD main fifo: Stopping
+Sun Oct 25 20:59:00 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 20:59:00 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 20:59:00 2026: SERVER: destructor for server bound to port 34265
+Sun Oct 25 20:59:00 2026: XCD main fifo: Good unlink of /tmp/xcdmainbae81495-c396-4e52-a3ce-0547abbbe645
+Sun Oct 25 20:59:00 2026: Server exiting with status 0.
+Sun Oct 25 20:59:00 2026: Closing log file.
+Sun Oct 25 20:59:45 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 20:59:45 2026: Server was asked to start on port: '35269'
+Sun Oct 25 20:59:45 2026: Server is using token UUID: 'eb1ed78f-e57a-465a-b50a-3d54be0e6284'
+Sun Oct 25 20:59:45 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 20:59:45 2026: Attempting to start server on port '35269'
+Sun Oct 25 20:59:45 2026: XCD main fifo: created main fifo '/tmp/xcdmaineb1ed78f-e57a-465a-b50a-3d54be0e6284', fd read = 12
+Sun Oct 25 20:59:45 2026: Running Dispatch Server
+Sun Oct 25 20:59:45 2026: Version 2.2.0
+Sun Oct 25 20:59:46 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 20:59:46 2026: Starting Socket connection
+Sun Oct 25 20:59:46 2026: EXCHANGE_TOKEN received, server token: eb1ed78f-e57a-465a-b50a-3d54be0e6284, passed token: eb1ed78f-e57a-465a-b50a-3d54be0e6284
+Sun Oct 25 20:59:46 2026: SESSION_MGR: creating session with session uuid: '474eabaf-0078-4db9-bc32-f547e9a1a10f' and name 'AIE Compilation'
+Sun Oct 25 20:59:46 2026: KERNEL_SVC: creating session with uuid: '474eabaf-0078-4db9-bc32-f547e9a1a10f' and name 'AIE Compilation'
+Sun Oct 25 20:59:46 2026: GUIDANCE_SMGR: creating guidance session with uuid: '474eabaf-0078-4db9-bc32-f547e9a1a10f' and name 'AIE Compilation'
+Sun Oct 25 20:59:47 2026: Dispatch Server: do_await_stop
+Sun Oct 25 20:59:47 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 20:59:47 2026: XCD main fifo: Stopping
+Sun Oct 25 20:59:47 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 20:59:47 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 20:59:47 2026: SERVER: destructor for server bound to port 35269
+Sun Oct 25 20:59:47 2026: XCD main fifo: Good unlink of /tmp/xcdmaineb1ed78f-e57a-465a-b50a-3d54be0e6284
+Sun Oct 25 20:59:47 2026: Server exiting with status 0.
+Sun Oct 25 20:59:47 2026: Closing log file.
+Sun Oct 25 21:00:09 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 21:00:09 2026: Server was asked to start on port: '40677'
+Sun Oct 25 21:00:09 2026: Server is using token UUID: 'a2ff438e-f330-4ac6-9648-270ebb8b1b93'
+Sun Oct 25 21:00:09 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 21:00:09 2026: Attempting to start server on port '40677'
+Sun Oct 25 21:00:09 2026: XCD main fifo: created main fifo '/tmp/xcdmaina2ff438e-f330-4ac6-9648-270ebb8b1b93', fd read = 12
+Sun Oct 25 21:00:09 2026: Running Dispatch Server
+Sun Oct 25 21:00:09 2026: Version 2.2.0
+Sun Oct 25 21:00:10 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 21:00:10 2026: Starting Socket connection
+Sun Oct 25 21:00:10 2026: EXCHANGE_TOKEN received, server token: a2ff438e-f330-4ac6-9648-270ebb8b1b93, passed token: a2ff438e-f330-4ac6-9648-270ebb8b1b93
+Sun Oct 25 21:00:10 2026: SESSION_MGR: creating session with session uuid: '719aef18-00a8-4831-82bf-408463fa7206' and name 'AIE Compilation'
+Sun Oct 25 21:00:10 2026: KERNEL_SVC: creating session with uuid: '719aef18-00a8-4831-82bf-408463fa7206' and name 'AIE Compilation'
+Sun Oct 25 21:00:10 2026: GUIDANCE_SMGR: creating guidance session with uuid: '719aef18-00a8-4831-82bf-408463fa7206' and name 'AIE Compilation'
+Sun Oct 25 21:00:13 2026: Dispatch Server: do_await_stop
+Sun Oct 25 21:00:13 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 21:00:13 2026: XCD main fifo: Stopping
+Sun Oct 25 21:00:13 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 21:00:13 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 21:00:13 2026: SERVER: destructor for server bound to port 40677
+Sun Oct 25 21:00:13 2026: XCD main fifo: Good unlink of /tmp/xcdmaina2ff438e-f330-4ac6-9648-270ebb8b1b93
+Sun Oct 25 21:00:13 2026: Server exiting with status 0.
+Sun Oct 25 21:00:13 2026: Closing log file.
+Sun Oct 25 21:02:22 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 21:02:22 2026: Server was asked to start on port: '34009'
+Sun Oct 25 21:02:22 2026: Server is using token UUID: '5576371c-ed77-4ad9-beb6-c178286df590'
+Sun Oct 25 21:02:22 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 21:02:22 2026: Attempting to start server on port '34009'
+Sun Oct 25 21:02:22 2026: XCD main fifo: created main fifo '/tmp/xcdmain5576371c-ed77-4ad9-beb6-c178286df590', fd read = 12
+Sun Oct 25 21:02:22 2026: Running Dispatch Server
+Sun Oct 25 21:02:22 2026: Version 2.2.0
+Sun Oct 25 21:02:23 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 21:02:23 2026: Starting Socket connection
+Sun Oct 25 21:02:23 2026: EXCHANGE_TOKEN received, server token: 5576371c-ed77-4ad9-beb6-c178286df590, passed token: 5576371c-ed77-4ad9-beb6-c178286df590
+Sun Oct 25 21:02:23 2026: SESSION_MGR: creating session with session uuid: '1edf58e9-766f-447a-aea4-2faae957b2e2' and name 'AIE Compilation'
+Sun Oct 25 21:02:23 2026: KERNEL_SVC: creating session with uuid: '1edf58e9-766f-447a-aea4-2faae957b2e2' and name 'AIE Compilation'
+Sun Oct 25 21:02:23 2026: GUIDANCE_SMGR: creating guidance session with uuid: '1edf58e9-766f-447a-aea4-2faae957b2e2' and name 'AIE Compilation'
+Sun Oct 25 21:02:24 2026: Dispatch Server: do_await_stop
+Sun Oct 25 21:02:24 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 21:02:24 2026: XCD main fifo: Stopping
+Sun Oct 25 21:02:24 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 21:02:24 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 21:02:24 2026: SERVER: destructor for server bound to port 34009
+Sun Oct 25 21:02:24 2026: XCD main fifo: Good unlink of /tmp/xcdmain5576371c-ed77-4ad9-beb6-c178286df590
+Sun Oct 25 21:02:24 2026: Server exiting with status 0.
+Sun Oct 25 21:02:24 2026: Closing log file.
+Sun Oct 25 21:04:08 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 21:04:08 2026: Server was asked to start on port: '41461'
+Sun Oct 25 21:04:08 2026: Server is using token UUID: '8b283fde-3968-4239-81ef-5360cd262fb0'
+Sun Oct 25 21:04:08 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 21:04:08 2026: Attempting to start server on port '41461'
+Sun Oct 25 21:04:08 2026: XCD main fifo: created main fifo '/tmp/xcdmain8b283fde-3968-4239-81ef-5360cd262fb0', fd read = 12
+Sun Oct 25 21:04:08 2026: Running Dispatch Server
+Sun Oct 25 21:04:08 2026: Version 2.2.0
+Sun Oct 25 21:04:09 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 21:04:09 2026: Starting Socket connection
+Sun Oct 25 21:04:09 2026: EXCHANGE_TOKEN received, server token: 8b283fde-3968-4239-81ef-5360cd262fb0, passed token: 8b283fde-3968-4239-81ef-5360cd262fb0
+Sun Oct 25 21:04:09 2026: SESSION_MGR: creating session with session uuid: '7e776186-c1fa-460c-aa0b-99d6db885e10' and name 'AIE Compilation'
+Sun Oct 25 21:04:09 2026: KERNEL_SVC: creating session with uuid: '7e776186-c1fa-460c-aa0b-99d6db885e10' and name 'AIE Compilation'
+Sun Oct 25 21:04:09 2026: GUIDANCE_SMGR: creating guidance session with uuid: '7e776186-c1fa-460c-aa0b-99d6db885e10' and name 'AIE Compilation'
+Sun Oct 25 21:04:11 2026: Dispatch Server: do_await_stop
+Sun Oct 25 21:04:11 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 21:04:11 2026: XCD main fifo: Stopping
+Sun Oct 25 21:04:11 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 21:04:11 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 21:04:11 2026: SERVER: destructor for server bound to port 41461
+Sun Oct 25 21:04:11 2026: XCD main fifo: Good unlink of /tmp/xcdmain8b283fde-3968-4239-81ef-5360cd262fb0
+Sun Oct 25 21:04:11 2026: Server exiting with status 0.
+Sun Oct 25 21:04:11 2026: Closing log file.
+Sun Oct 25 21:04:41 2026: Running xcd server. This server was built by gradle.
+Sun Oct 25 21:04:41 2026: Server was asked to start on port: '34653'
+Sun Oct 25 21:04:41 2026: Server is using token UUID: '2c817b7e-f424-4294-b6e8-50c054b3bde3'
+Sun Oct 25 21:04:41 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Sun Oct 25 21:04:41 2026: Attempting to start server on port '34653'
+Sun Oct 25 21:04:41 2026: XCD main fifo: created main fifo '/tmp/xcdmain2c817b7e-f424-4294-b6e8-50c054b3bde3', fd read = 12
+Sun Oct 25 21:04:41 2026: Running Dispatch Server
+Sun Oct 25 21:04:41 2026: Version 2.2.0
+Sun Oct 25 21:04:42 2026: Dispatch Server: Accepted socket connection from client
+Sun Oct 25 21:04:42 2026: Starting Socket connection
+Sun Oct 25 21:04:42 2026: EXCHANGE_TOKEN received, server token: 2c817b7e-f424-4294-b6e8-50c054b3bde3, passed token: 2c817b7e-f424-4294-b6e8-50c054b3bde3
+Sun Oct 25 21:04:42 2026: SESSION_MGR: creating session with session uuid: '92b20fa1-2098-4690-80da-471f97bd0fe8' and name 'AIE Compilation'
+Sun Oct 25 21:04:42 2026: KERNEL_SVC: creating session with uuid: '92b20fa1-2098-4690-80da-471f97bd0fe8' and name 'AIE Compilation'
+Sun Oct 25 21:04:42 2026: GUIDANCE_SMGR: creating guidance session with uuid: '92b20fa1-2098-4690-80da-471f97bd0fe8' and name 'AIE Compilation'
+Sun Oct 25 21:04:44 2026: Dispatch Server: do_await_stop
+Sun Oct 25 21:04:44 2026: Dispatch Server: stopping mainFifo_
+Sun Oct 25 21:04:44 2026: XCD main fifo: Stopping
+Sun Oct 25 21:04:44 2026: XCD main fifo: do_read error code: Operation canceled
+Sun Oct 25 21:04:44 2026: XCD main fifo: bytes_transferred: 0
+Sun Oct 25 21:04:44 2026: SERVER: destructor for server bound to port 34653
+Sun Oct 25 21:04:44 2026: XCD main fifo: Good unlink of /tmp/xcdmain2c817b7e-f424-4294-b6e8-50c054b3bde3
+Sun Oct 25 21:04:44 2026: Server exiting with status 0.
+Sun Oct 25 21:04:44 2026: Closing log file.
+Mon Oct 26 11:11:47 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:11:47 2026: Server was asked to start on port: '45303'
+Mon Oct 26 11:11:47 2026: Server is using token UUID: '564e9c77-00bc-427e-98a9-34ebe321a535'
+Mon Oct 26 11:11:47 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:11:47 2026: Attempting to start server on port '45303'
+Mon Oct 26 11:11:47 2026: XCD main fifo: created main fifo '/tmp/xcdmain564e9c77-00bc-427e-98a9-34ebe321a535', fd read = 12
+Mon Oct 26 11:11:47 2026: Running Dispatch Server
+Mon Oct 26 11:11:47 2026: Version 2.2.0
+Mon Oct 26 11:11:49 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:11:49 2026: Starting Socket connection
+Mon Oct 26 11:11:49 2026: EXCHANGE_TOKEN received, server token: 564e9c77-00bc-427e-98a9-34ebe321a535, passed token: 564e9c77-00bc-427e-98a9-34ebe321a535
+Mon Oct 26 11:11:49 2026: SESSION_MGR: creating session with session uuid: 'a0f6f590-fb62-4d9d-b06e-27978a093c59' and name 'AIE Compilation'
+Mon Oct 26 11:11:49 2026: KERNEL_SVC: creating session with uuid: 'a0f6f590-fb62-4d9d-b06e-27978a093c59' and name 'AIE Compilation'
+Mon Oct 26 11:11:49 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'a0f6f590-fb62-4d9d-b06e-27978a093c59' and name 'AIE Compilation'
+Mon Oct 26 11:11:50 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:11:50 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:11:50 2026: XCD main fifo: Stopping
+Mon Oct 26 11:11:50 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:11:50 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:11:50 2026: SERVER: destructor for server bound to port 45303
+Mon Oct 26 11:11:50 2026: XCD main fifo: Good unlink of /tmp/xcdmain564e9c77-00bc-427e-98a9-34ebe321a535
+Mon Oct 26 11:11:50 2026: Server exiting with status 0.
+Mon Oct 26 11:11:50 2026: Closing log file.
+Mon Oct 26 11:46:15 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:46:15 2026: Server was asked to start on port: '43293'
+Mon Oct 26 11:46:15 2026: Server is using token UUID: '57e4cbf8-45b7-42a2-bbc1-a4f73ffb83bd'
+Mon Oct 26 11:46:15 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:46:15 2026: Attempting to start server on port '43293'
+Mon Oct 26 11:46:15 2026: XCD main fifo: created main fifo '/tmp/xcdmain57e4cbf8-45b7-42a2-bbc1-a4f73ffb83bd', fd read = 12
+Mon Oct 26 11:46:15 2026: Running Dispatch Server
+Mon Oct 26 11:46:15 2026: Version 2.2.0
+Mon Oct 26 11:46:16 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:46:16 2026: Starting Socket connection
+Mon Oct 26 11:46:16 2026: EXCHANGE_TOKEN received, server token: 57e4cbf8-45b7-42a2-bbc1-a4f73ffb83bd, passed token: 57e4cbf8-45b7-42a2-bbc1-a4f73ffb83bd
+Mon Oct 26 11:46:16 2026: SESSION_MGR: creating session with session uuid: '1b79bc07-f717-49b0-89a8-35e2abf5c792' and name 'AIE Compilation'
+Mon Oct 26 11:46:16 2026: KERNEL_SVC: creating session with uuid: '1b79bc07-f717-49b0-89a8-35e2abf5c792' and name 'AIE Compilation'
+Mon Oct 26 11:46:16 2026: GUIDANCE_SMGR: creating guidance session with uuid: '1b79bc07-f717-49b0-89a8-35e2abf5c792' and name 'AIE Compilation'
+Mon Oct 26 11:46:17 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:46:17 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:46:17 2026: XCD main fifo: Stopping
+Mon Oct 26 11:46:17 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:46:17 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:46:17 2026: SERVER: destructor for server bound to port 43293
+Mon Oct 26 11:46:17 2026: XCD main fifo: Good unlink of /tmp/xcdmain57e4cbf8-45b7-42a2-bbc1-a4f73ffb83bd
+Mon Oct 26 11:46:17 2026: Server exiting with status 0.
+Mon Oct 26 11:46:17 2026: Closing log file.
+Mon Oct 26 11:49:08 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:49:08 2026: Server was asked to start on port: '46651'
+Mon Oct 26 11:49:08 2026: Server is using token UUID: 'f1f81dba-db9f-413d-8102-6d927002794d'
+Mon Oct 26 11:49:08 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:49:08 2026: Attempting to start server on port '46651'
+Mon Oct 26 11:49:08 2026: XCD main fifo: created main fifo '/tmp/xcdmainf1f81dba-db9f-413d-8102-6d927002794d', fd read = 12
+Mon Oct 26 11:49:08 2026: Running Dispatch Server
+Mon Oct 26 11:49:08 2026: Version 2.2.0
+Mon Oct 26 11:49:09 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:49:09 2026: Starting Socket connection
+Mon Oct 26 11:49:09 2026: EXCHANGE_TOKEN received, server token: f1f81dba-db9f-413d-8102-6d927002794d, passed token: f1f81dba-db9f-413d-8102-6d927002794d
+Mon Oct 26 11:49:09 2026: SESSION_MGR: creating session with session uuid: 'f6b20be2-29ea-4bfb-9517-f4fc0da2307f' and name 'AIE Compilation'
+Mon Oct 26 11:49:09 2026: KERNEL_SVC: creating session with uuid: 'f6b20be2-29ea-4bfb-9517-f4fc0da2307f' and name 'AIE Compilation'
+Mon Oct 26 11:49:09 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'f6b20be2-29ea-4bfb-9517-f4fc0da2307f' and name 'AIE Compilation'
+Mon Oct 26 11:49:10 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:49:10 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:49:10 2026: XCD main fifo: Stopping
+Mon Oct 26 11:49:10 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:49:10 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:49:10 2026: SERVER: destructor for server bound to port 46651
+Mon Oct 26 11:49:10 2026: XCD main fifo: Good unlink of /tmp/xcdmainf1f81dba-db9f-413d-8102-6d927002794d
+Mon Oct 26 11:49:10 2026: Server exiting with status 0.
+Mon Oct 26 11:49:10 2026: Closing log file.
+Mon Oct 26 11:51:11 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:51:11 2026: Server was asked to start on port: '33141'
+Mon Oct 26 11:51:11 2026: Server is using token UUID: '3c541537-26e9-4a08-af67-e79d42910322'
+Mon Oct 26 11:51:11 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:51:11 2026: Attempting to start server on port '33141'
+Mon Oct 26 11:51:11 2026: XCD main fifo: created main fifo '/tmp/xcdmain3c541537-26e9-4a08-af67-e79d42910322', fd read = 12
+Mon Oct 26 11:51:11 2026: Running Dispatch Server
+Mon Oct 26 11:51:11 2026: Version 2.2.0
+Mon Oct 26 11:51:12 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:51:12 2026: Starting Socket connection
+Mon Oct 26 11:51:12 2026: EXCHANGE_TOKEN received, server token: 3c541537-26e9-4a08-af67-e79d42910322, passed token: 3c541537-26e9-4a08-af67-e79d42910322
+Mon Oct 26 11:51:12 2026: SESSION_MGR: creating session with session uuid: 'e2fc4231-998a-4939-b4ea-8a332d1dd5dd' and name 'AIE Compilation'
+Mon Oct 26 11:51:12 2026: KERNEL_SVC: creating session with uuid: 'e2fc4231-998a-4939-b4ea-8a332d1dd5dd' and name 'AIE Compilation'
+Mon Oct 26 11:51:12 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'e2fc4231-998a-4939-b4ea-8a332d1dd5dd' and name 'AIE Compilation'
+Mon Oct 26 11:51:13 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:51:13 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:51:13 2026: XCD main fifo: Stopping
+Mon Oct 26 11:51:13 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:51:13 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:51:13 2026: SERVER: destructor for server bound to port 33141
+Mon Oct 26 11:51:13 2026: XCD main fifo: Good unlink of /tmp/xcdmain3c541537-26e9-4a08-af67-e79d42910322
+Mon Oct 26 11:51:13 2026: Server exiting with status 0.
+Mon Oct 26 11:51:13 2026: Closing log file.
+Mon Oct 26 11:52:19 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:52:19 2026: Server was asked to start on port: '35435'
+Mon Oct 26 11:52:19 2026: Server is using token UUID: '913d5a16-550d-4a83-b7c2-7b364df4a690'
+Mon Oct 26 11:52:19 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:52:19 2026: Attempting to start server on port '35435'
+Mon Oct 26 11:52:19 2026: XCD main fifo: created main fifo '/tmp/xcdmain913d5a16-550d-4a83-b7c2-7b364df4a690', fd read = 12
+Mon Oct 26 11:52:19 2026: Running Dispatch Server
+Mon Oct 26 11:52:19 2026: Version 2.2.0
+Mon Oct 26 11:52:21 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:52:21 2026: Starting Socket connection
+Mon Oct 26 11:52:21 2026: EXCHANGE_TOKEN received, server token: 913d5a16-550d-4a83-b7c2-7b364df4a690, passed token: 913d5a16-550d-4a83-b7c2-7b364df4a690
+Mon Oct 26 11:52:21 2026: SESSION_MGR: creating session with session uuid: '073adb87-2be8-4c3b-b860-307a6a3fd1ce' and name 'AIE Compilation'
+Mon Oct 26 11:52:21 2026: KERNEL_SVC: creating session with uuid: '073adb87-2be8-4c3b-b860-307a6a3fd1ce' and name 'AIE Compilation'
+Mon Oct 26 11:52:21 2026: GUIDANCE_SMGR: creating guidance session with uuid: '073adb87-2be8-4c3b-b860-307a6a3fd1ce' and name 'AIE Compilation'
+Mon Oct 26 11:52:23 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:52:23 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:52:23 2026: XCD main fifo: Stopping
+Mon Oct 26 11:52:23 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:52:23 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:52:23 2026: SERVER: destructor for server bound to port 35435
+Mon Oct 26 11:52:23 2026: XCD main fifo: Good unlink of /tmp/xcdmain913d5a16-550d-4a83-b7c2-7b364df4a690
+Mon Oct 26 11:52:23 2026: Server exiting with status 0.
+Mon Oct 26 11:52:23 2026: Closing log file.
+Mon Oct 26 11:53:24 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:53:24 2026: Server was asked to start on port: '34599'
+Mon Oct 26 11:53:24 2026: Server is using token UUID: '7c636b15-33a8-4eb1-96d1-1aa73fadccfa'
+Mon Oct 26 11:53:24 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:53:24 2026: Attempting to start server on port '34599'
+Mon Oct 26 11:53:24 2026: XCD main fifo: created main fifo '/tmp/xcdmain7c636b15-33a8-4eb1-96d1-1aa73fadccfa', fd read = 12
+Mon Oct 26 11:53:24 2026: Running Dispatch Server
+Mon Oct 26 11:53:24 2026: Version 2.2.0
+Mon Oct 26 11:53:25 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:53:25 2026: Starting Socket connection
+Mon Oct 26 11:53:25 2026: EXCHANGE_TOKEN received, server token: 7c636b15-33a8-4eb1-96d1-1aa73fadccfa, passed token: 7c636b15-33a8-4eb1-96d1-1aa73fadccfa
+Mon Oct 26 11:53:25 2026: SESSION_MGR: creating session with session uuid: '94d7b58d-2edd-4182-8837-c365c925d132' and name 'AIE Compilation'
+Mon Oct 26 11:53:25 2026: KERNEL_SVC: creating session with uuid: '94d7b58d-2edd-4182-8837-c365c925d132' and name 'AIE Compilation'
+Mon Oct 26 11:53:25 2026: GUIDANCE_SMGR: creating guidance session with uuid: '94d7b58d-2edd-4182-8837-c365c925d132' and name 'AIE Compilation'
+Mon Oct 26 11:53:26 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:53:26 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:53:26 2026: XCD main fifo: Stopping
+Mon Oct 26 11:53:26 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:53:26 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:53:26 2026: SERVER: destructor for server bound to port 34599
+Mon Oct 26 11:53:26 2026: XCD main fifo: Good unlink of /tmp/xcdmain7c636b15-33a8-4eb1-96d1-1aa73fadccfa
+Mon Oct 26 11:53:26 2026: Server exiting with status 0.
+Mon Oct 26 11:53:26 2026: Closing log file.
+Mon Oct 26 11:53:51 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:53:51 2026: Server was asked to start on port: '44275'
+Mon Oct 26 11:53:51 2026: Server is using token UUID: '2e128a0e-b514-4719-bceb-5eb4b15497ed'
+Mon Oct 26 11:53:51 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:53:51 2026: Attempting to start server on port '44275'
+Mon Oct 26 11:53:51 2026: XCD main fifo: created main fifo '/tmp/xcdmain2e128a0e-b514-4719-bceb-5eb4b15497ed', fd read = 12
+Mon Oct 26 11:53:51 2026: Running Dispatch Server
+Mon Oct 26 11:53:51 2026: Version 2.2.0
+Mon Oct 26 11:53:52 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:53:52 2026: Starting Socket connection
+Mon Oct 26 11:53:52 2026: EXCHANGE_TOKEN received, server token: 2e128a0e-b514-4719-bceb-5eb4b15497ed, passed token: 2e128a0e-b514-4719-bceb-5eb4b15497ed
+Mon Oct 26 11:53:52 2026: SESSION_MGR: creating session with session uuid: '67ffa930-714a-48f7-95b0-9d0239bb2c68' and name 'AIE Compilation'
+Mon Oct 26 11:53:52 2026: KERNEL_SVC: creating session with uuid: '67ffa930-714a-48f7-95b0-9d0239bb2c68' and name 'AIE Compilation'
+Mon Oct 26 11:53:52 2026: GUIDANCE_SMGR: creating guidance session with uuid: '67ffa930-714a-48f7-95b0-9d0239bb2c68' and name 'AIE Compilation'
+Mon Oct 26 11:56:36 2026: SESSION_MGR: closing session for UUID '67ffa930-714a-48f7-95b0-9d0239bb2c68' with name ''
+Mon Oct 26 11:56:36 2026: KERNEL_SVC: closing session for UUID '67ffa930-714a-48f7-95b0-9d0239bb2c68' with name ''
+Mon Oct 26 11:56:36 2026: GUIDANCE_SMGR: closing session for UUID '67ffa930-714a-48f7-95b0-9d0239bb2c68' with name ''
+Mon Oct 26 11:56:36 2026: STOP_SERVER received, server token: 2e128a0e-b514-4719-bceb-5eb4b15497ed, passed token: 2e128a0e-b514-4719-bceb-5eb4b15497ed
+Mon Oct 26 11:56:36 2026: Socket received request to stop server.
+Mon Oct 26 11:56:36 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:56:36 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:56:36 2026: XCD main fifo: Stopping
+Mon Oct 26 11:56:36 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:56:36 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:56:36 2026: SERVER: destructor for server bound to port 44275
+Mon Oct 26 11:56:36 2026: XCD main fifo: Good unlink of /tmp/xcdmain2e128a0e-b514-4719-bceb-5eb4b15497ed
+Mon Oct 26 11:56:36 2026: Server exiting with status 0.
+Mon Oct 26 11:56:36 2026: Closing log file.
+Mon Oct 26 11:58:59 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 11:58:59 2026: Server was asked to start on port: '44105'
+Mon Oct 26 11:58:59 2026: Server is using token UUID: '0f64e573-a335-4fec-b145-cd0012f773cd'
+Mon Oct 26 11:58:59 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 11:58:59 2026: Attempting to start server on port '44105'
+Mon Oct 26 11:58:59 2026: XCD main fifo: created main fifo '/tmp/xcdmain0f64e573-a335-4fec-b145-cd0012f773cd', fd read = 12
+Mon Oct 26 11:58:59 2026: Running Dispatch Server
+Mon Oct 26 11:58:59 2026: Version 2.2.0
+Mon Oct 26 11:59:00 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 11:59:00 2026: Starting Socket connection
+Mon Oct 26 11:59:00 2026: EXCHANGE_TOKEN received, server token: 0f64e573-a335-4fec-b145-cd0012f773cd, passed token: 0f64e573-a335-4fec-b145-cd0012f773cd
+Mon Oct 26 11:59:00 2026: SESSION_MGR: creating session with session uuid: '109e1bd9-9d21-4736-a32b-109b339e4542' and name 'AIE Compilation'
+Mon Oct 26 11:59:00 2026: KERNEL_SVC: creating session with uuid: '109e1bd9-9d21-4736-a32b-109b339e4542' and name 'AIE Compilation'
+Mon Oct 26 11:59:00 2026: GUIDANCE_SMGR: creating guidance session with uuid: '109e1bd9-9d21-4736-a32b-109b339e4542' and name 'AIE Compilation'
+Mon Oct 26 11:59:00 2026: Dispatch Server: do_await_stop
+Mon Oct 26 11:59:00 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 11:59:00 2026: XCD main fifo: Stopping
+Mon Oct 26 11:59:00 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 11:59:00 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 11:59:00 2026: SERVER: destructor for server bound to port 44105
+Mon Oct 26 11:59:00 2026: XCD main fifo: Good unlink of /tmp/xcdmain0f64e573-a335-4fec-b145-cd0012f773cd
+Mon Oct 26 11:59:00 2026: Server exiting with status 0.
+Mon Oct 26 11:59:00 2026: Closing log file.
+Mon Oct 26 12:00:10 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 12:00:10 2026: Server was asked to start on port: '43119'
+Mon Oct 26 12:00:10 2026: Server is using token UUID: 'f6fcaa02-4a81-4963-bdfb-875ee6f30ec9'
+Mon Oct 26 12:00:10 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 12:00:10 2026: Attempting to start server on port '43119'
+Mon Oct 26 12:00:10 2026: XCD main fifo: created main fifo '/tmp/xcdmainf6fcaa02-4a81-4963-bdfb-875ee6f30ec9', fd read = 12
+Mon Oct 26 12:00:10 2026: Running Dispatch Server
+Mon Oct 26 12:00:10 2026: Version 2.2.0
+Mon Oct 26 12:00:11 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 12:00:11 2026: Starting Socket connection
+Mon Oct 26 12:00:11 2026: EXCHANGE_TOKEN received, server token: f6fcaa02-4a81-4963-bdfb-875ee6f30ec9, passed token: f6fcaa02-4a81-4963-bdfb-875ee6f30ec9
+Mon Oct 26 12:00:11 2026: SESSION_MGR: creating session with session uuid: '399802c2-e65b-4efb-bf43-3f97888ba7a2' and name 'AIE Compilation'
+Mon Oct 26 12:00:11 2026: KERNEL_SVC: creating session with uuid: '399802c2-e65b-4efb-bf43-3f97888ba7a2' and name 'AIE Compilation'
+Mon Oct 26 12:00:11 2026: GUIDANCE_SMGR: creating guidance session with uuid: '399802c2-e65b-4efb-bf43-3f97888ba7a2' and name 'AIE Compilation'
+Mon Oct 26 12:00:13 2026: Dispatch Server: do_await_stop
+Mon Oct 26 12:00:13 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 12:00:13 2026: XCD main fifo: Stopping
+Mon Oct 26 12:00:13 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 12:00:13 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 12:00:13 2026: SERVER: destructor for server bound to port 43119
+Mon Oct 26 12:00:13 2026: XCD main fifo: Good unlink of /tmp/xcdmainf6fcaa02-4a81-4963-bdfb-875ee6f30ec9
+Mon Oct 26 12:00:13 2026: Server exiting with status 0.
+Mon Oct 26 12:00:13 2026: Closing log file.
+Mon Oct 26 12:00:43 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 12:00:43 2026: Server was asked to start on port: '46041'
+Mon Oct 26 12:00:43 2026: Server is using token UUID: 'bffc40e4-957b-4fb9-b346-42d00872824a'
+Mon Oct 26 12:00:43 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 12:00:43 2026: Attempting to start server on port '46041'
+Mon Oct 26 12:00:43 2026: XCD main fifo: created main fifo '/tmp/xcdmainbffc40e4-957b-4fb9-b346-42d00872824a', fd read = 12
+Mon Oct 26 12:00:43 2026: Running Dispatch Server
+Mon Oct 26 12:00:43 2026: Version 2.2.0
+Mon Oct 26 12:00:44 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 12:00:44 2026: Starting Socket connection
+Mon Oct 26 12:00:44 2026: EXCHANGE_TOKEN received, server token: bffc40e4-957b-4fb9-b346-42d00872824a, passed token: bffc40e4-957b-4fb9-b346-42d00872824a
+Mon Oct 26 12:00:44 2026: SESSION_MGR: creating session with session uuid: '8859cd84-11b2-4e4e-b83f-32a1ace5af0f' and name 'AIE Compilation'
+Mon Oct 26 12:00:44 2026: KERNEL_SVC: creating session with uuid: '8859cd84-11b2-4e4e-b83f-32a1ace5af0f' and name 'AIE Compilation'
+Mon Oct 26 12:00:44 2026: GUIDANCE_SMGR: creating guidance session with uuid: '8859cd84-11b2-4e4e-b83f-32a1ace5af0f' and name 'AIE Compilation'
+Mon Oct 26 12:00:46 2026: Dispatch Server: do_await_stop
+Mon Oct 26 12:00:46 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 12:00:46 2026: XCD main fifo: Stopping
+Mon Oct 26 12:00:46 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 12:00:46 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 12:00:46 2026: SERVER: destructor for server bound to port 46041
+Mon Oct 26 12:00:46 2026: XCD main fifo: Good unlink of /tmp/xcdmainbffc40e4-957b-4fb9-b346-42d00872824a
+Mon Oct 26 12:00:46 2026: Server exiting with status 0.
+Mon Oct 26 12:00:46 2026: Closing log file.
+Mon Oct 26 12:38:57 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 12:38:57 2026: Server was asked to start on port: '38733'
+Mon Oct 26 12:38:57 2026: Server is using token UUID: '85bbc893-0992-47ce-a0a8-232578703c10'
+Mon Oct 26 12:38:57 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 12:38:57 2026: Attempting to start server on port '38733'
+Mon Oct 26 12:38:57 2026: XCD main fifo: created main fifo '/tmp/xcdmain85bbc893-0992-47ce-a0a8-232578703c10', fd read = 12
+Mon Oct 26 12:38:57 2026: Running Dispatch Server
+Mon Oct 26 12:38:57 2026: Version 2.2.0
+Mon Oct 26 12:38:59 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 12:38:59 2026: Starting Socket connection
+Mon Oct 26 12:38:59 2026: EXCHANGE_TOKEN received, server token: 85bbc893-0992-47ce-a0a8-232578703c10, passed token: 85bbc893-0992-47ce-a0a8-232578703c10
+Mon Oct 26 12:38:59 2026: SESSION_MGR: creating session with session uuid: 'b59d649e-7521-4dac-a99e-78f9eaa3e9b4' and name 'AIE Compilation'
+Mon Oct 26 12:38:59 2026: KERNEL_SVC: creating session with uuid: 'b59d649e-7521-4dac-a99e-78f9eaa3e9b4' and name 'AIE Compilation'
+Mon Oct 26 12:38:59 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'b59d649e-7521-4dac-a99e-78f9eaa3e9b4' and name 'AIE Compilation'
+Mon Oct 26 12:38:59 2026: Dispatch Server: do_await_stop
+Mon Oct 26 12:38:59 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 12:38:59 2026: XCD main fifo: Stopping
+Mon Oct 26 12:38:59 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 12:38:59 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 12:38:59 2026: SERVER: destructor for server bound to port 38733
+Mon Oct 26 12:38:59 2026: XCD main fifo: Good unlink of /tmp/xcdmain85bbc893-0992-47ce-a0a8-232578703c10
+Mon Oct 26 12:38:59 2026: Server exiting with status 0.
+Mon Oct 26 12:38:59 2026: Closing log file.
+Mon Oct 26 12:40:11 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 12:40:11 2026: Server was asked to start on port: '40447'
+Mon Oct 26 12:40:11 2026: Server is using token UUID: 'bbd2aad9-bfaf-4545-b18e-e17422a64f7e'
+Mon Oct 26 12:40:11 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 12:40:11 2026: Attempting to start server on port '40447'
+Mon Oct 26 12:40:11 2026: XCD main fifo: created main fifo '/tmp/xcdmainbbd2aad9-bfaf-4545-b18e-e17422a64f7e', fd read = 12
+Mon Oct 26 12:40:11 2026: Running Dispatch Server
+Mon Oct 26 12:40:11 2026: Version 2.2.0
+Mon Oct 26 12:40:12 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 12:40:12 2026: Starting Socket connection
+Mon Oct 26 12:40:12 2026: EXCHANGE_TOKEN received, server token: bbd2aad9-bfaf-4545-b18e-e17422a64f7e, passed token: bbd2aad9-bfaf-4545-b18e-e17422a64f7e
+Mon Oct 26 12:40:12 2026: SESSION_MGR: creating session with session uuid: '5b23fb20-15ba-4e14-b0f0-3abeee92c786' and name 'AIE Compilation'
+Mon Oct 26 12:40:12 2026: KERNEL_SVC: creating session with uuid: '5b23fb20-15ba-4e14-b0f0-3abeee92c786' and name 'AIE Compilation'
+Mon Oct 26 12:40:12 2026: GUIDANCE_SMGR: creating guidance session with uuid: '5b23fb20-15ba-4e14-b0f0-3abeee92c786' and name 'AIE Compilation'
+Mon Oct 26 12:40:13 2026: Dispatch Server: do_await_stop
+Mon Oct 26 12:40:13 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 12:40:13 2026: XCD main fifo: Stopping
+Mon Oct 26 12:40:13 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 12:40:13 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 12:40:13 2026: SERVER: destructor for server bound to port 40447
+Mon Oct 26 12:40:13 2026: XCD main fifo: Good unlink of /tmp/xcdmainbbd2aad9-bfaf-4545-b18e-e17422a64f7e
+Mon Oct 26 12:40:13 2026: Server exiting with status 0.
+Mon Oct 26 12:40:13 2026: Closing log file.
+Mon Oct 26 12:40:36 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 12:40:36 2026: Server was asked to start on port: '38035'
+Mon Oct 26 12:40:36 2026: Server is using token UUID: '6a206fb1-b4a7-4a63-ae55-4e958410615e'
+Mon Oct 26 12:40:36 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 12:40:36 2026: Attempting to start server on port '38035'
+Mon Oct 26 12:40:36 2026: XCD main fifo: created main fifo '/tmp/xcdmain6a206fb1-b4a7-4a63-ae55-4e958410615e', fd read = 12
+Mon Oct 26 12:40:36 2026: Running Dispatch Server
+Mon Oct 26 12:40:36 2026: Version 2.2.0
+Mon Oct 26 12:40:37 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 12:40:37 2026: Starting Socket connection
+Mon Oct 26 12:40:37 2026: EXCHANGE_TOKEN received, server token: 6a206fb1-b4a7-4a63-ae55-4e958410615e, passed token: 6a206fb1-b4a7-4a63-ae55-4e958410615e
+Mon Oct 26 12:40:37 2026: SESSION_MGR: creating session with session uuid: 'dac0f075-1534-4df3-9766-bd290174c6c1' and name 'AIE Compilation'
+Mon Oct 26 12:40:37 2026: KERNEL_SVC: creating session with uuid: 'dac0f075-1534-4df3-9766-bd290174c6c1' and name 'AIE Compilation'
+Mon Oct 26 12:40:37 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'dac0f075-1534-4df3-9766-bd290174c6c1' and name 'AIE Compilation'
+Mon Oct 26 12:40:38 2026: Dispatch Server: do_await_stop
+Mon Oct 26 12:40:38 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 12:40:38 2026: XCD main fifo: Stopping
+Mon Oct 26 12:40:38 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 12:40:38 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 12:40:38 2026: SERVER: destructor for server bound to port 38035
+Mon Oct 26 12:40:38 2026: XCD main fifo: Good unlink of /tmp/xcdmain6a206fb1-b4a7-4a63-ae55-4e958410615e
+Mon Oct 26 12:40:38 2026: Server exiting with status 0.
+Mon Oct 26 12:40:38 2026: Closing log file.
+Mon Oct 26 12:41:12 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 12:41:12 2026: Server was asked to start on port: '40625'
+Mon Oct 26 12:41:12 2026: Server is using token UUID: '42b36573-cd8d-4d69-856f-932fc0e88b54'
+Mon Oct 26 12:41:12 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 12:41:12 2026: Attempting to start server on port '40625'
+Mon Oct 26 12:41:12 2026: XCD main fifo: created main fifo '/tmp/xcdmain42b36573-cd8d-4d69-856f-932fc0e88b54', fd read = 12
+Mon Oct 26 12:41:12 2026: Running Dispatch Server
+Mon Oct 26 12:41:12 2026: Version 2.2.0
+Mon Oct 26 12:41:13 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 12:41:13 2026: Starting Socket connection
+Mon Oct 26 12:41:13 2026: EXCHANGE_TOKEN received, server token: 42b36573-cd8d-4d69-856f-932fc0e88b54, passed token: 42b36573-cd8d-4d69-856f-932fc0e88b54
+Mon Oct 26 12:41:13 2026: SESSION_MGR: creating session with session uuid: 'c6fd48f0-27de-442a-9034-342650696d18' and name 'AIE Compilation'
+Mon Oct 26 12:41:13 2026: KERNEL_SVC: creating session with uuid: 'c6fd48f0-27de-442a-9034-342650696d18' and name 'AIE Compilation'
+Mon Oct 26 12:41:13 2026: GUIDANCE_SMGR: creating guidance session with uuid: 'c6fd48f0-27de-442a-9034-342650696d18' and name 'AIE Compilation'
+Mon Oct 26 12:44:14 2026: SESSION_MGR: closing session for UUID 'c6fd48f0-27de-442a-9034-342650696d18' with name ''
+Mon Oct 26 12:44:14 2026: KERNEL_SVC: closing session for UUID 'c6fd48f0-27de-442a-9034-342650696d18' with name ''
+Mon Oct 26 12:44:14 2026: GUIDANCE_SMGR: closing session for UUID 'c6fd48f0-27de-442a-9034-342650696d18' with name ''
+Mon Oct 26 12:44:14 2026: STOP_SERVER received, server token: 42b36573-cd8d-4d69-856f-932fc0e88b54, passed token: 42b36573-cd8d-4d69-856f-932fc0e88b54
+Mon Oct 26 12:44:14 2026: Socket received request to stop server.
+Mon Oct 26 12:44:14 2026: Dispatch Server: do_await_stop
+Mon Oct 26 12:44:14 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 12:44:14 2026: XCD main fifo: Stopping
+Mon Oct 26 12:44:14 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 12:44:14 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 12:44:14 2026: SERVER: destructor for server bound to port 40625
+Mon Oct 26 12:44:14 2026: XCD main fifo: Good unlink of /tmp/xcdmain42b36573-cd8d-4d69-856f-932fc0e88b54
+Mon Oct 26 12:44:14 2026: Server exiting with status 0.
+Mon Oct 26 12:44:14 2026: Closing log file.
+Mon Oct 26 14:27:38 2026: Running xcd server. This server was built by gradle.
+Mon Oct 26 14:27:38 2026: Server was asked to start on port: '36883'
+Mon Oct 26 14:27:38 2026: Server is using token UUID: '2e03a451-a52c-47bf-90d4-00e912bd3873'
+Mon Oct 26 14:27:38 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Oct 26 14:27:38 2026: Attempting to start server on port '36883'
+Mon Oct 26 14:27:38 2026: XCD main fifo: created main fifo '/tmp/xcdmain2e03a451-a52c-47bf-90d4-00e912bd3873', fd read = 12
+Mon Oct 26 14:27:38 2026: Running Dispatch Server
+Mon Oct 26 14:27:38 2026: Version 2.2.0
+Mon Oct 26 14:27:40 2026: Dispatch Server: Accepted socket connection from client
+Mon Oct 26 14:27:40 2026: Starting Socket connection
+Mon Oct 26 14:27:40 2026: EXCHANGE_TOKEN received, server token: 2e03a451-a52c-47bf-90d4-00e912bd3873, passed token: 2e03a451-a52c-47bf-90d4-00e912bd3873
+Mon Oct 26 14:27:40 2026: SESSION_MGR: creating session with session uuid: '8731a6eb-db16-4f70-a8a5-120c8dec4b01' and name 'AIE Compilation'
+Mon Oct 26 14:27:40 2026: KERNEL_SVC: creating session with uuid: '8731a6eb-db16-4f70-a8a5-120c8dec4b01' and name 'AIE Compilation'
+Mon Oct 26 14:27:40 2026: GUIDANCE_SMGR: creating guidance session with uuid: '8731a6eb-db16-4f70-a8a5-120c8dec4b01' and name 'AIE Compilation'
+Mon Oct 26 14:30:30 2026: SESSION_MGR: closing session for UUID '8731a6eb-db16-4f70-a8a5-120c8dec4b01' with name ''
+Mon Oct 26 14:30:30 2026: KERNEL_SVC: closing session for UUID '8731a6eb-db16-4f70-a8a5-120c8dec4b01' with name ''
+Mon Oct 26 14:30:30 2026: GUIDANCE_SMGR: closing session for UUID '8731a6eb-db16-4f70-a8a5-120c8dec4b01' with name ''
+Mon Oct 26 14:30:31 2026: STOP_SERVER received, server token: 2e03a451-a52c-47bf-90d4-00e912bd3873, passed token: 2e03a451-a52c-47bf-90d4-00e912bd3873
+Mon Oct 26 14:30:31 2026: Socket received request to stop server.
+Mon Oct 26 14:30:31 2026: Dispatch Server: do_await_stop
+Mon Oct 26 14:30:31 2026: Dispatch Server: stopping mainFifo_
+Mon Oct 26 14:30:31 2026: XCD main fifo: Stopping
+Mon Oct 26 14:30:31 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Oct 26 14:30:31 2026: XCD main fifo: bytes_transferred: 0
+Mon Oct 26 14:30:31 2026: SERVER: destructor for server bound to port 36883
+Mon Oct 26 14:30:31 2026: XCD main fifo: Good unlink of /tmp/xcdmain2e03a451-a52c-47bf-90d4-00e912bd3873
+Mon Oct 26 14:30:31 2026: Server exiting with status 0.
+Mon Oct 26 14:30:31 2026: Closing log file.
+Mon Nov  2 14:28:50 2026: Running xcd server. This server was built by gradle.
+Mon Nov  2 14:28:50 2026: Server was asked to start on port: '46109'
+Mon Nov  2 14:28:50 2026: Server is using token UUID: 'd8e7433d-fca1-42fd-ad87-9018c54fc6a1'
+Mon Nov  2 14:28:50 2026: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Mon Nov  2 14:28:50 2026: Attempting to start server on port '46109'
+Mon Nov  2 14:28:50 2026: XCD main fifo: created main fifo '/tmp/xcdmaind8e7433d-fca1-42fd-ad87-9018c54fc6a1', fd read = 12
+Mon Nov  2 14:28:50 2026: Running Dispatch Server
+Mon Nov  2 14:28:50 2026: Version 2.2.0
+Mon Nov  2 14:28:51 2026: Dispatch Server: Accepted socket connection from client
+Mon Nov  2 14:28:51 2026: Starting Socket connection
+Mon Nov  2 14:28:51 2026: EXCHANGE_TOKEN received, server token: d8e7433d-fca1-42fd-ad87-9018c54fc6a1, passed token: d8e7433d-fca1-42fd-ad87-9018c54fc6a1
+Mon Nov  2 14:28:51 2026: SESSION_MGR: creating session with session uuid: '934033af-3144-43ae-90b5-364f68a06a54' and name 'AIE Compilation'
+Mon Nov  2 14:28:51 2026: KERNEL_SVC: creating session with uuid: '934033af-3144-43ae-90b5-364f68a06a54' and name 'AIE Compilation'
+Mon Nov  2 14:28:51 2026: GUIDANCE_SMGR: creating guidance session with uuid: '934033af-3144-43ae-90b5-364f68a06a54' and name 'AIE Compilation'
+Mon Nov  2 14:30:39 2026: Dispatch Server: do_await_stop
+Mon Nov  2 14:30:39 2026: Dispatch Server: stopping mainFifo_
+Mon Nov  2 14:30:39 2026: XCD main fifo: Stopping
+Mon Nov  2 14:30:39 2026: XCD main fifo: do_read error code: Operation canceled
+Mon Nov  2 14:30:39 2026: XCD main fifo: bytes_transferred: 0
+Mon Nov  2 14:30:39 2026: SERVER: destructor for server bound to port 46109
+Mon Nov  2 14:30:39 2026: XCD main fifo: Good unlink of /tmp/xcdmaind8e7433d-fca1-42fd-ad87-9018c54fc6a1
+Mon Nov  2 14:30:39 2026: Server exiting with status 0.
+Mon Nov  2 14:30:39 2026: Closing log file.

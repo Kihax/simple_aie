@@ -1,0 +1,58 @@
+{
+    "inputs": [
+        {
+            "type": "plio",
+            "dataFile": "data/input.txt",
+            "dataWidth": "32",
+            "frequency": 0.0,
+            "hex": false,
+            "logicalName": "my_graph_in",
+            "direction": "input",
+            "index": 0,
+            "ports": [
+                {
+                    "portName": "in[0]",
+                    "qualifiedName": "my_graph.k",
+                    "graphName": "my_graph",
+                    "graphType": "simple_graph",
+                    "type": "iobuffer",
+                    "elementType": "int16",
+                    "direction": "in",
+                    "blockSize": 256,
+                    "addressingMode": "linear",
+                    "margin": 0,
+                    "isSync": true
+                }
+            ],
+            "qualifiedGraphPortAliasNames": []
+        }
+    ],
+    "outputs": [
+        {
+            "type": "plio",
+            "dataFile": "data/output.txt",
+            "dataWidth": "32",
+            "frequency": 0.0,
+            "hex": false,
+            "logicalName": "my_graph_out",
+            "direction": "output",
+            "index": 0,
+            "ports": [
+                {
+                    "portName": "out[0]",
+                    "qualifiedName": "my_graph.k",
+                    "graphName": "my_graph",
+                    "graphType": "simple_graph",
+                    "type": "iobuffer",
+                    "elementType": "int16",
+                    "direction": "out",
+                    "blockSize": 256,
+                    "addressingMode": "linear",
+                    "margin": 0,
+                    "isSync": true
+                }
+            ],
+            "qualifiedGraphPortAliasNames": []
+        }
+    ]
+}

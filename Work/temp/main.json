@@ -1,0 +1,213 @@
+{
+    "schema": "MEGraphSchema-0.5",
+    "id": "root",
+    "blockTypes": {
+        "b0": {
+            "type": "function",
+            "function": "simple",
+            "mangledName": "_Z6simpleRN3adf9io_bufferIsNS_9direction2inENS_16io_buffer_configINS_7extentsIJLj4294967295EEEENS_7locking4syncENS_10addressing6linearENS_6marginILj0EEEEEEERNS0_IsNS1_3outESC_EE",
+            "srcFile": "kernels.cc",
+            "srcFileLoc": "./graph.h:32:9",
+            "ports": {
+                "pi0": {
+                    "type": "mem",
+                    "elementType": "int16",
+                    "direction": "in",
+                    "parameterIndex": 0,
+                    "bufferPort": true,
+                    "portName": "in[0]",
+                    "varName": "in",
+                    "cppDataType": "adf::io_buffer<short, adf::direction::in, adf::io_buffer_config<>> &__restrict",
+                    "dimensions": [
+                        4294967295
+                    ]
+                },
+                "po0": {
+                    "type": "mem",
+                    "elementType": "int16",
+                    "direction": "out",
+                    "parameterIndex": 1,
+                    "bufferPort": true,
+                    "portName": "out[0]",
+                    "varName": "out",
+                    "cppDataType": "adf::io_buffer<short, adf::direction::out, adf::io_buffer_config<>> &__restrict",
+                    "dimensions": [
+                        4294967295
+                    ]
+                }
+            }
+        },
+        "b1": {
+            "type": "plio",
+            "ports": {
+                "po0": {
+                    "type": "stream",
+                    "elementType": "int16",
+                    "direction": "out",
+                    "portName": "in.out[0]"
+                }
+            }
+        },
+        "b2": {
+            "type": "plio",
+            "ports": {
+                "pi0": {
+                    "type": "stream",
+                    "elementType": "int16",
+                    "direction": "in",
+                    "portName": "out.in[0]"
+                }
+            }
+        }
+    },
+    "blockInstances": {
+        "i0": {
+            "blockType": "b0",
+            "graphIds": [
+                0
+            ],
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "qualifiedGraphName": "my_graph",
+            "qualifiedName": "my_graph.k",
+            "runTime": 0.1,
+            "fabric": "me",
+            "instanceId": 0,
+            "loc": "./graph.h:20:13"
+        },
+        "i1": {
+            "blockType": "b1",
+            "graphIds": [
+                0
+            ],
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "qualifiedGraphName": "my_graph",
+            "qualifiedName": "my_graph.in",
+            "dataWidth": 32,
+            "dataFile": "data/input.txt",
+            "logicalName": "my_graph_in",
+            "instanceId": 0,
+            "loc": "./graph.h:16:5"
+        },
+        "i2": {
+            "blockType": "b2",
+            "graphIds": [
+                0
+            ],
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "qualifiedGraphName": "my_graph",
+            "qualifiedName": "my_graph.out",
+            "dataWidth": 32,
+            "dataFile": "data/output.txt",
+            "logicalName": "my_graph_out",
+            "instanceId": 1,
+            "loc": "./graph.h:17:5"
+        }
+    },
+    "portInstances": {
+        "i0_pi0": {
+            "margin": 0,
+            "port": "pi0",
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "portName": "k.in[0]",
+            "qualifiedName": "my_graph.k.in[0]",
+            "instanceId": 0,
+            "blockInstance": "i0",
+            "blockSize": 256,
+            "dimensions": [
+                128
+            ],
+            "disableOutOfOrderMode": true
+        },
+        "i0_po0": {
+            "margin": 0,
+            "port": "po0",
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "portName": "k.out[0]",
+            "qualifiedName": "my_graph.k.out[0]",
+            "instanceId": 1,
+            "blockInstance": "i0",
+            "blockSize": 256,
+            "dimensions": [
+                128
+            ],
+            "disableOutOfOrderMode": true
+        },
+        "i1_po0": {
+            "margin": 0,
+            "port": "po0",
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "portName": "in.out[0]",
+            "qualifiedName": "my_graph.in.out[0]",
+            "blockInstance": "i1"
+        },
+        "i2_pi0": {
+            "margin": 0,
+            "port": "pi0",
+            "graphName": "my_graph",
+            "graphType": "simple_graph",
+            "portName": "out.in[0]",
+            "qualifiedName": "my_graph.out.in[0]",
+            "blockInstance": "i2"
+        }
+    },
+    "nets": {
+        "net0": {
+            "srcInstance": "i1",
+            "srcPort": "i1_po0",
+            "dstInstance": "i0",
+            "dstPort": "i0_pi0",
+            "varNames": [
+                ""
+            ],
+            "locs": [
+                "./graph.h:25:9"
+            ]
+        },
+        "net1": {
+            "srcInstance": "i0",
+            "srcPort": "i0_po0",
+            "dstInstance": "i2",
+            "dstPort": "i2_pi0",
+            "varNames": [
+                ""
+            ],
+            "locs": [
+                "./graph.h:26:9"
+            ]
+        }
+    },
+    "debugInfo": {
+        "i0": {
+            "varName": "k"
+        },
+        "i1": {
+            "varName": "in"
+        },
+        "i2": {
+            "varName": "out"
+        },
+        "i0_pi0": {
+            "varName": "k.in[0]"
+        },
+        "i0_po0": {
+            "varName": "k.out[0]"
+        },
+        "i1_po0": {
+            "varName": "in.out[0]"
+        },
+        "i2_pi0": {
+            "varName": "out.in[0]"
+        }
+    },
+    "graphFilesInfo": {
+        "headerFiles": [
+            "./graph.h"
+        ]
+    }
+}

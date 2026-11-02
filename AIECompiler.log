@@ -1,0 +1,35 @@
+                                           AI Engine Compiler
+                                     Version 2025.2 (linux64-bit)
+                                     SW Build 6299465 on 2025-11-14-04:57:17
+                          Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+                          Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+INFO: [aiecompiler 77-297] Cmd Line : /home/killian/Xilinx/2025.2/Vitis/aietools/bin/unwrapped/lnx64.o/aiecompiler --target=hw --platform=/home/killian/Xilinx/2025.2/Vitis/base_platforms/xilinx_vck190_base_202520_1/xilinx_vck190_base_202520_1.xpfm --include=. --workdir=Work main.cpp 
+INFO: [aiecompiler 77-404] Executing Cmd: /home/killian/Xilinx/2025.2/Vitis/aietools/lnx64.o/tools/clang/bin/clang++ -I/home/killian/Xilinx/2025.2/Vitis/aietools/include -I/home/killian/Xilinx/2025.2/Vitis/aietools/tps/lnx64/gcc/include/c++/8.3.0 -I/home/killian/Xilinx/2025.2/Vitis/aietools/tps/lnx64/gcc/include/c++/8.3.0/x86_64-pc-linux-gnu -I/home/killian/Xilinx/2025.2/Vitis/aietools/tps/lnx64/gcc/include  -Wno-error=reserved-user-defined-literal  -E  --std=c++17  -D__ADF_FRONTEND__ -D__AIE_ARCH__=10 -I/home/killian/Xilinx/2025.2/Vitis/aietools/include  -I .  -I "." main.cpp > Work/temp/main.ii
+INFO: [aiecompiler 77-404] Executing Cmd: /home/killian/Xilinx/2025.2/Vitis/aietools/bin/graph_preprocessor Work/temp/main.ii -o Work/temp/main.processed.ii -report-core-dump  --keep-intermediate-results=1 --  -std=c++17   -ftemplate-depth=2048  -Wno-return-stack-address  -Wno-missing-declarations  -Wno-parentheses-equality  -Wno-shift-negative-value  
+INFO: [aiecompiler 77-404] Executing Cmd: /home/killian/Xilinx/2025.2/Vitis/aietools/lnx64.o/tools/clang/bin/clang++ --gcc-install-dir=/home/killian/Xilinx/2025.2/Vitis/aietools/tps/lnx64/gcc/lib/gcc/x86_64-pc-linux-gnu/8.3.0 -stdlib=libstdc++  -Wno-error=reserved-user-defined-literal   -std=c++17   -I .  Work/temp/main.processed.ii -o Work/temp/main.out -L /home/killian/Xilinx/2025.2/Vitis/aietools/lib/lnx64.o -g -O0 -Wl,--unresolved-symbols=ignore-all  -Wno-return-stack-address  -Wno-missing-declarations  -laiecompiler_embd 
+INFO: [aiecompiler 77-404] Executing Cmd: Work/temp/main.out --include "." --workdir Work --part xcvc1902-vsva2197-2MP-e-S --aiearch aie --log-level 1 --pl-axi-lite 0 --enable-multi-layer 0 --multi-layer-opt 0 --disable-dma-autostart 0 --enable-light-cdo 0 --large-program-memory 0 --swfifo-threshold 40 --enable-dma-fifo 1 --keep-intermediate-results 1 --target hw --dump-frontend-impl 0 --out-of-order-mode 0
+INFO: [aiecompiler 77-749] Reading logical device VC1902
+INFO: [aiecompiler 77-749] Reading logical device VC1902
+INFO: [aiecompiler 77-750] Reading physical device xcvc1902-vsva2197-2MP-e-S
+INFO: [aiecompiler 21-403] Loading part xcvc1902-vsva2197-2MP-e-S
+INFO: [aiecompiler 77-4400] Finish reading physical device xcvc1902-vsva2197-2MP-e-S
+INFO: [aiecompiler 77-23537] device xcvc1902-vsva2197-2MP-e-S does not support optimized transaction binary format; forcing enable-txn-format-1p0 to false
+INFO: [aiecompiler 77-757] Opening input file: Work/temp/main.json
+INFO: [aiecompiler 77-656] Processing Graph 'root'
+INFO: [aiecompiler 77-404] Executing Cmd: 	cd Work/aie/ir 
+	/home/killian/Xilinx/2025.2/Vitis/aietools/tps/lnx64/target/bin/LNa64bin/chesscc +f +s -p me -P /home/killian/Xilinx/2025.2/Vitis/aietools/data/versal_prod/lib +Wllvm,-O2,-fno-jump-tables,-femit-all-decls,-fno-discard-value-names,-Xclang,-chess-only-info-critical-passes,-g -D_LIBCPP_LIMITS_H -D_LIBCPP_STDIO_H -D_LIBCPP_STDINT_H -D__AIENGINE__ -D__AIE_ARCH__=10 -I /home/killian/Xilinx/2025.2/Vitis/aietools/data/versal_prod/lib -I /home/killian/Xilinx/2025.2/Vitis/aietools/data/versal_prod/lib/runtime_cxx/libcxx-lite/include -I /home/killian/Xilinx/2025.2/Vitis/aietools/data/versal_prod/lib/runtime_cxx/libs/libcxx-16/include-lite -I /home/killian/Xilinx/2025.2/Vitis/aietools/data/versal_prod/lib/runtime/include empty.cc -o _header.ll
+INFO: [aiecompiler 77-404] Executing Cmd: make -C Work/aie/ir -O -j8 -f i0_kernels.makefile all 2>&1
+INFO: [aiecompiler 77-404] Executing Cmd: rm -f Work/aie/ir/i0_kernels.makefile;
+INFO: [aiecompiler 77-404] Executing Cmd: 	cd Work/aie/ir 
+	export XILINX_CARDANO_KERNEL_ANALYSIS_OPTIONS="-spec=i0_kernels_spec.json -max-required-vector-alignment=32 "  
+	/home/killian/Xilinx/2025.2/Vitis/aietools/lnx64.o/tools/clang/bin/opt  -S -load-pass-plugin /home/killian/Xilinx/2025.2/Vitis/aietools/lib/lnx64.o/libLLVMKernelAnalysis.so -passes=kernel_analysis i0_kernels.ll -spec=i0_kernels_spec.json  > /dev/null
+INFO: [aiecompiler 77-404] Executing Cmd: 	cd Work/aie/ir 
+	/home/killian/Xilinx/2025.2/Vitis/aietools/lnx64.o/tools/clang/bin/opt -S -load-pass-plugin=/home/killian/Xilinx/2025.2/Vitis/aietools/lib/lnx64.o/libLLVMXLOptPreProc.so -passes=XLOptPreProc -spec=i0_kernels_spec.json i0_kernels.ll -o i0_kernels.ll 2>/dev/null
+INFO: [aiecompiler 77-5917] Repetition count for my_graph.k is 1.
+INFO: [aiecompiler 77-22112] PL freq is not specified using the default device specific freq 312.5
+ERROR: [aiecompiler 77-753] This application has discovered an exceptional condition from which it cannot recover while executing the following command
+  >> dot Work/reports/main.dot -Tpng -o Work/reports/main.png
+.
+Please check the output log for errors and fix those before you run the application.
+Compilation Failed
+(WARNING:0, CRITICAL-WARNING:0, ERROR:1)

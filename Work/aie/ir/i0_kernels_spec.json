@@ -1,0 +1,19 @@
+{
+    "KernelAnalysisSpec": {
+        "ModulePath": "/home/killian/projects/simple_aie/kernels.cc",
+        "KernelSourcePath": "/home/killian/projects/simple_aie/kernels.cc",
+        "SpecFile": "i0_kernels_spec.json",
+        "ResultFile": "i0_kernels_results.json",
+        "UseCases": [
+            {
+                "Index": 0,
+                "KernelFunction": "simple",
+                "InitializationFunction": "",
+                "KernelClassCtor": "",
+                "Instances": [
+                    "i0"
+                ]
+            }
+        ]
+    }
+}
